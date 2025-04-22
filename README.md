@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Big-Mart-Sales-Predicition
 The aim is to build a predictive model and find out the sales of each product at a particular store. Create a model by which Big Mart can analyse and predict the outlet production sales.
 
@@ -71,3 +72,7 @@ https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows
 - XGBoost
 - Deployment
 
+=======
+# Big-Mart-Sales-Prediction
+Big-Mart Sales Prediction 🛍️📊 Predicting Big-Mart sales using historical data. The project builds machine learning models 🤖 with features like store location 🏪, product category 🛒, and seasonal trends 🌦️. Key tasks: data cleaning 🧹, feature engineering 🔧, and model evaluation 📊. Goal: accurate sales forecasting 📈.
+>>>>>>> a6fe7b124f48bd33d05d5215a1bb811e2a940ad0
